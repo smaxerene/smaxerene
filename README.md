@@ -57,8 +57,6 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smaxerene&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=smaxerene&theme=tokyonight&hide_border=true" />
 </p>
 
 
