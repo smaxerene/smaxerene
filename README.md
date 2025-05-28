@@ -2,7 +2,7 @@
 
 📚 Software Engineering student at Massey University <br>
 🌱 I'm currently using Python, C++, C# for this semester (S1FS) <br>
-🔍 I'm actively looking for a graduate programme in New Zealand, preferably in Auckland <br>
+🔍 I'm actively looking for graduate programmes in New Zealand, preferably in Auckland <br>
 💬 Interested in having a Software Engineer or AI Engineer job. <br>
 🔧 Every project has more room for improvement 🫶 <br>
 
