@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I am Samantha! Welcome to my GitHub ✨</h2>
 
 📚 Software Engineering student at Massey University <br>
-🌱 I'm currently using Python, C++, C# for this semester (S1FS) <br>
+🌱 I'm currently using Kotlin, C++, and Java for this semester (S2FS) <br>
+💼 Currently working on a Software Engineering Group Capstone Project with Microsoft (Develop OpenRewrite Recipes for
+Azure SDK Java Libraries)  <br>
 🔍 I'm actively looking for graduate programmes in New Zealand, preferably in Auckland <br>
 💬 Interested in having a Software Engineer or AI Engineer job. <br>
 🔧 Every project has more room for improvement 🫶 <br>
