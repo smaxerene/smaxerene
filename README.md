@@ -10,7 +10,7 @@
 
 ## 🌐 Socials
 <p align="center">
-  <a href="https://linkedin.com/in/samantha-quilat-673986235">
+  <a href="https://linkedin.com/in/samantha-quilat/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:smquilat@gmail.com">
