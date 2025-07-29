@@ -4,7 +4,6 @@
 🌱 I'm currently using Kotlin (Mobile App Development), C++ (Artificial Intelligence), and Java for this semester (S2FS) <br>
 💼 Currently working on a Software Engineering Group Capstone Project with FMG (Resource Planning Software)  <br>
 🔍 I'm actively looking for graduate programmes in New Zealand, preferably in Auckland <br>
-💬 Interested in having a Software Engineer or AI Engineer job. <br>
 🔧 Every project has more room for improvement 🫶 <br>
 
 
