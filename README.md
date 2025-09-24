@@ -2,7 +2,7 @@
 
 📚 Software Engineering student at Massey University <br>
 💻 I'm currently using Kotlin (Mobile App Development), C++ (Artificial Intelligence), and Java for this semester (S2FS) <br>
-💼 I am currently working on an Anxiety Reliever website called Hearth Space.
+💼 Currently working on a Software Engineering Group Capstone Project with FMG (Resource Planning Software)
 🔍 I'm actively looking for an internship or graduate programmes in New Zealand, preferably in Auckland <br>
 🔧 Every project has more room for improvement 🫶 <br>
 
