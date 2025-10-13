@@ -31,14 +31,7 @@
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" /> 
 </p>
 
-## 🧠 Concepts
-<p align="center"> 
-  <img src="https://img.shields.io/badge/Machine%20Learning%20Fundamentals-%2300C4CC.svg?style=for-the badge&logo=tensorflow&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Networking%20Basics-%23026AA7.svg?style=for-the-badge&logo=cisco&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Cloud%20Computing%20Basics-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" /> </p>
-
-## 🛠️ IDE
-🧰 Tools & Platforms
+## 🧰 Tools & Platforms
 <p align="center"> 
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> 
   <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" /> 
@@ -53,7 +46,7 @@
   <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" /> <br/> 
   <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Microsoft%20Teams-464EB8?style=for-the-badge&logo=microsoft-teams&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Emails-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Emails-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> <br/> 
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" />
