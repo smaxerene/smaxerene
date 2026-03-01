@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I am Samantha! Welcome to my GitHub ✨</h2>
 
-📚 Software Engineering student at Massey University <br>
-💻 Currently final exam season <br>
-💼 Currently doing self-directed learning about Data (Analytics, Science, and Engineering)<br>
+📚 Software Engineering Graduate from Massey University <br>
+💼 Currently doing self-directed learning <br>
 🔍 I'm actively looking for an internship or graduate programmes in New Zealand, preferably in Auckland <br>
 🔧 Every project has more room for improvement 🫶 <br>
 
@@ -27,8 +26,6 @@
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" /> 
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /> 
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" /> 
 </p>
 
 ## 🧰 Tools & Platforms
