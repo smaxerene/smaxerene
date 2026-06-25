@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Samantha! Welcome to my GitHub ✨</h2>
 
 📚 Software Engineering Graduate from Massey University <br>
-💼 Currently doing self-directed learning (C# 12 and .NET 8)<br>
+💼 Currently doing self-directed learning <br>
 🔍 I'm actively looking for an internship or graduate programmes in New Zealand, preferably in Auckland <br>
 🔧 Every project has more room for improvement 🫶 <br>
 
