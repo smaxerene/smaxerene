@@ -2,7 +2,7 @@
 
 📚 Software Engineering Graduate from Massey University <br>
 💼 Currently doing self-directed learning <br>
-🔍 I'm actively looking for an internship or graduate programmes in New Zealand, preferably in Auckland <br>
+🔍 I'm actively looking for an internship or graduate programmes in New Zealand, preferably in Auckland or Bay of Plenty<br>
 🔧 Every project has more room for improvement 🫶 <br>
 
 
